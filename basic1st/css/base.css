@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+
+
+address,strong{font-style:normal;font-weight:normal;}
+
+@font-face{
+	font-family:NGothic;
+	src:url('../font/NanumGothic.woff') format('woff');}
+
+@font-face{
+	font-family:NGothicEB;
+	src:url('../font/NanumGothicExtraBold.woff') format('woff');}
+
+body{font:14px "NGothic",Gulim;}
